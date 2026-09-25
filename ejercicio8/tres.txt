@@ -1,1 +1,3 @@
 GitHub permite trabajar con repositorios.
+GitHub permite trabajar con repositorios.
+Estoy aprendiendo a usar GitHub.
